@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python3
 from flask import Flask, render_template
 
 app = Flask(__name__)
